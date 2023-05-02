@@ -6,6 +6,6 @@ app.get('/', function (req, res) {
   res.send('Simple Web Application is UP');
 });
 
-app.listen(8081, function () {
+app.listen(443, function () {
   console.log('Simple Web Application running on port 8081!');
 });

@@ -1,1 +1,1 @@
-<p>Welcome to Azure</p>
+Welcome to Azure
